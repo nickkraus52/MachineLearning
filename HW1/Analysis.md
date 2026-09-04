@@ -8,7 +8,7 @@
 
 ### Did all Module 0 notebooks execute successfully in Colab on the first try, or did you need to adjust any syntax or dependencies?
 
-There were a couple dependencies I had to install along the way. First when I tried running the first notebook in VS Code it required installing the ipykernel package. Next in the second notebook I was getting an error for the pandas and numpy imports, so I ran pip install pandas which installed both dependencies. I also had an error sklearn and ran pip install sklearn.
+There were a couple dependencies I had to install along the way. First when I tried running the first notebook in VS Code it required installing the ipykernel package. Next in the second notebook I was getting an error for the pandas and numpy imports, so I ran pip install pandas which installed both dependencies. I also had an error sklearn and ran pip install sklearn. I also had to pip install matplotlib and seaborn.
 
 
 
